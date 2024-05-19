@@ -1,4 +1,14 @@
 가다: đi
+오다: đến
+마시다: uống
+읽다: đọc
+듣다: nghe
+보다: nhìn
+일하다: làm việc
+공부하다: học bài
+인동하다: luyện tập thể thao
+만나다: gặp gỡ
+좋아하다: thích
 자다: ngủ
 먹다: ăn
 쉬다: nghỉ ngơi
