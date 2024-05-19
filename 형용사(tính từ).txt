@@ -1,0 +1,6 @@
+크다: to,lớn
+작다: nhỏ
+좋다: tốt
+나쁘다: xấu tồi
+많다: nhiều
+재미있다: hay, thú vị
